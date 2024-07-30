@@ -1,0 +1,10 @@
+/home/coletj/workspace/github.com/McFlanky/rust-learning/pokemon-aws/target/debug/deps/libminiz_oxide-59a2a67e7d8e9030.rmeta: /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs
+
+/home/coletj/workspace/github.com/McFlanky/rust-learning/pokemon-aws/target/debug/deps/miniz_oxide-59a2a67e7d8e9030.d: /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs /home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs
+
+/home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs:
+/home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs:
+/home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs:
+/home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs:
+/home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs:
+/home/coletj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs:
